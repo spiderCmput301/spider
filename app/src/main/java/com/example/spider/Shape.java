@@ -2,7 +2,7 @@ package com.example.spider;
 public abstract class Shape {
     protected int x;
     protected int y;
-    private String color = "Blue";
+    private String color = "Red";
 
     public Shape(int x, int y) {
         this.x = x;
