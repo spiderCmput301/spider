@@ -1,2 +1,1 @@
-Gurkeerat Kakar: gskakar
-kotapall
+
